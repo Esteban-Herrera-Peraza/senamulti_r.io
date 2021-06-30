@@ -1,0 +1,12 @@
+producto
+tipo , nombre, cantidad, 
+('carnes', 'ternera', '10lb');
+('legumbres', 'acelga', '4lb');
+('carnes', 'churrasco', '10lb');
+('granos', 'pepino', '2lb');
+('legumbre', 'habichuela', '3lb');
+('legumbre', 'tomate', '7lb');
+('carnes', 'pechuga', '10lb');
+('carnes', 'cerdo', '7lb');
+('fruta', 'fresa', '10lb');
+('fruta', 'mango', '7lb');

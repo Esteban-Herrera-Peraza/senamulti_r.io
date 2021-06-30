@@ -1,0 +1,11 @@
+('juan alberto casas rocha', 'Calle 10 No. 9 - 78  Centro', 'dtamazonas@minproteccionsocial.gov.co', 5927139, '*****', 07:00 - 17:00, 3);
+('aldemar cadavid echeverri', 'calle 10 No. 9 - 77  Centro', 'dtcasanare@minproteccionsocial.gov.co', 5132929, '*****', 13:00 -  21:00, 1);
+('pepe caro zamora', 'Carrera 56A No. 51 - 81', 'dtputumayo@minproteccionsocial.gov.co', 8852052, '*****', 07:00 - 17:00, 2);
+('luis perdomo cubios salamanca', 'Carrera 54 No. 68 - 80 Barrio el Prado', 'dtantioquia@minproteccionsocial.gov.co', 8857496, '*****', 13:00 -  21:00, 5);
+('alfredo martinez osorio', 'Calle 59 No. 27 - 35 Barrio Galán', 'dtarauca@minproteccionsocial.gov.co', 3694114, '*****', 07:00 - 17:00, 5);
+('maicol michael peraza novoa', 'Carrera 10A No. 20 - 40  Edificio El Clarín piso 3 Centro La Matuna', 'oebarranca@minproteccionsocial.gov.co', 6114607, '*****', 07:00 - 17:00, 3); 
+('camilo andres siachica perez', 'Carrera 8  No. 20 - 59', 'dtboyaca@minproteccionsocial.gov.co', 6114617, '*****', 13:00 -  21:00, 1);
+('laura maria zuares garzon', 'Calle 20 No. 22 - 27 piso 3 Edificio Cumanday', 'dtcaqueta@minproteccionsocial.gov.co', 6640266, '*****', 07:00 - 17:00, 4);
+('juan david castillo paredes', 'Carrera 8a No. 7 - 88 /94  Barrio  La Estrella', 'dtcauca@minproteccionsocial.gov.co', 7424618, '*****', 07:00 - 17:00, 4);
+('armando paredes casas', 'Carrera  5 No. 3 -74  centro', 'dtquindio@minproteccionsocial.gov.co', 7424150, '*****', 13:00 -  21:00, 5);
+

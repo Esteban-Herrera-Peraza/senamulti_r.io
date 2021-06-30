@@ -1,0 +1,11 @@
+cod_cliente;nombre_usuario;num_identificacion;direccion_cliente;correo_electronico;tel_cliente;modo_pago;puntuacion;id_pedido
+(1,´maria del pilar sanabria´,1.031.224.337,´calle 48 # 5 c 21 -34,´mapisan@hotmail.com´,771247,´efectivo´,4);
+(2,´katherine huerfano´,1.114.243.448,´calle 48 # 5 c 21 -35,´kathehu@hotmail.com´,551453,´efectivo´,4);
+(3,´camilo andres guaje´,1.087.669.441,´calle 48 # 5 c 21 -36,´canje@hotmail.com´,651534,´efectivo´,5);
+(4,´angie carolina ladino´,1.033.983.474,calle 48 # 5 c 21 -37,´carlan@hotmail.com´,441155,´efectivo´,4);
+(5,´leidy sanchez´,98.174.973,´calle 48 # 5 c 21 -38,´leisan@hotmail.com´,551456,´tarjeta credito´,5);
+(6,´esperanza lopez´,62.248.001,´calle 48 # 5 c 21 -39,´espelo@hotmail.com´,551457,´tarjeta credito´,5);
+(7,´laura rodriguez´,1.034.152.174,´calle 48 # 5 c 21 -40,´lauro@hotmail.com´,551458,´tarjeta credito´,5);
+(8,´norma quintero´,78.546.674,´calle 48 # 5 c 21 -41,´norquin@hotmail.com´,551459,´efectivo´,4);
+(9,´yisney arias´,1.034.561.531,´calle 48 # 5 c 21 -42,´yisar@hotmail.com´,551460,´tarjeta credito´,5);
+(10,´javier venegas´,86.426.412,´calle 48 # 5 c 21 -43,´javven@hotmail.com´,551461,´efectivo´,3);

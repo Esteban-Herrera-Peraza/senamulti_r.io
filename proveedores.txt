@@ -1,0 +1,5 @@
+(1,'bimbo',0123,'cra 16 #62-45',9495711,'martes','stok');
+(2,'merca campo',3456,'cll 54 #10-50',9292656,'diaro','stok'); 
+(3,'cocacola',7890,'cra 96 #24c-94','6386600','lunes','stok');
+(4,'desechable 53',0022,'cll 53 #9-45',3201104,'diaro','stok'); 
+(5,'arizona',9933,'cll 63 #14-26',9192345,'diaro','stok'); 

@@ -1,0 +1,11 @@
+id_pedido;id_facturacion;id_venta;id_mesero;id_seleccion
+(6413,100001,1,´maria lopez´,1);
+(2514,100002,2,´juan mora´,2);
+(1345,100003,3,´tomas becerra´,3);
+(3104,100004,4,´alejandra vera´,4);
+(5108,100005,5,´liceth vera´,5);
+(4802,100006,6,´viviana garcia´,6);
+(6076,100007,7,´dario rincon´,7);
+(7698,100008,8,´carlos olarte´,8);
+(8912,100009,9,´mauricio rios´,9);
+(9231,100010,10,´jonathan ciceri´,10);

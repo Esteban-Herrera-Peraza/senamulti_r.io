@@ -1,0 +1,10 @@
+01,1000001,´ramon orjuela´,´carrera 5 g # 48 p- 43´,´ramla@hotmail.com´,3004987125,´aaaaaaa´,6:00,5,100%,excelente
+02,1000002,´francisco carrillo´,´carrera 6 g # 52 c- 44´,´franrrillo@hotmail.com´,3210001234.´bbbbbb´,13:00,4,80%,bueno
+03,1000003,´alexandra morantes´,´carrera 7 g # 63 t- 45´,´alexrantes@hotmail.com´,3147450208,´cccccccc´,6:00,5,100%,excelente
+04,1000004,´eider hernandez´,´carrera 8 g # 20 a- 46´,´ednandez@hotmail.com´,3025554369,´dddddd´,13:00,4,80%,bueno
+05,1000005,´paula ladino´,´carrera 9 g # 81 r- 47´,´leisan@hotmail.com´,3113316611,´eeeeee´,6:00,5,100%,excelente
+06,1000006,´eduardo cortes´,´carrera 2 g # 10 k- 48´,´edutes@hotmail.com´,3126124369,´fffffffff´,13:00,5,100%,excelente
+07,1000007,´mayerli gomez´,´carrera 10 g # 36 x- 49´,´maymez@hotmail.com´,3132384684,´ggggggg´,6:00,3,60%,regular
+08,1000008,´moises prieto´,´carrera 3 g # 70 n- 50´,´moeto@hotmail.com´,3207791425,´hhhhhh´,13:00,5,100%,excelente
+09,1000009,´johan mendez´,´carrera 4 g # 94 l- 51´,´jodez@hotmail.com´,3051385993,´iiiiiiiiiiii´,6:00,2,40%,malo
+10,1000010,´viviana suarez´,´carrera 11 g # 4 o- 52´,´vivirez@hotmail.com´,3015641020,´jjjjjjjjjjjj´,13:00,3,60%,regular
